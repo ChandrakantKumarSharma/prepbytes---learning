@@ -1,0 +1,31 @@
+h1{
+    color: red;
+}
+h2{
+    color: red;
+}
+.om{
+    color: palevioletred;
+    line-height: 50px;
+}
+.cf{
+    font-style: italic;
+}
+.cc{
+    text-decoration: line-through;
+}
+.omm{
+    color: yellowgreen;
+    letter-spacing: 5px;
+}
+p{
+    color: blue;
+}
+a{
+    background-color: yellow;
+    text-decoration: none;
+    font-style: italic;
+}
+.cv{
+    font-style: italic;
+}
